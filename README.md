@@ -8,7 +8,7 @@
 
 - <a href="https://github.com/bsrahmat/ebook-08/blob/main/EBook08_Simretribusi.pdf" target="_blank">EBook08_Simretribusi.pdf</a>
 
-- <a href="" target="_blank"></a>
+- <a href="https://www.academia.edu/117686687" target="_blank">https://www.academia.edu/117686687</a>
 
 - <a href="" target="_blank"></a>
 
